@@ -1,0 +1,317 @@
+payload_name,operator,manufacturer,country,region,nationality,mass,object_type,vehicle,launch_id,launch_date,url
+ICEYE-X86,FMV / ICEYE,ICEYE,Sweden,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-10-01-falcon-9-ft5-transporter-18,2026-10-01,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+MIKROGLOB-4,ARGUS,Creotech Instruments,Poland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-10-01-falcon-9-ft5-transporter-18,2026-10-01,https://space.skyrocket.de/doc_sdat/pirx-1.htm
+ICEYE-X85,RNAF,ICEYE,Netherlands,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-10-01-falcon-9-ft5-transporter-18,2026-10-01,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+ION SCV-026,D-ORBIT,D-Orbit,Italy,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-10-01-falcon-9-ft5-transporter-18,2026-10-01,https://space.skyrocket.de/doc_sdat/ion-scv-2.htm
+ION SCV-024,D-ORBIT,D-Orbit,Italy,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-10-01-falcon-9-ft5-transporter-18,2026-10-01,https://space.skyrocket.de/doc_sdat/ion-scv-2.htm
+HOTSAT-3,Satellite Vu,Surrey Satellite Technology Ltd (SSTL),United Kingdom,Unlisted,Unlisted,130.000,Payload,Falcon 9 FT5,2026-10-01-falcon-9-ft5-transporter-18,2026-10-01,https://space.skyrocket.de/doc_sdat/hotsat-1.htm
+ION SCV-025,D-ORBIT,D-Orbit,Italy,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-10-01-falcon-9-ft5-transporter-18,2026-10-01,https://space.skyrocket.de/doc_sdat/ion-scv-2.htm
+OSSIED,UARX Space,UARX Space,Spain,Unlisted,Unlisted,410.000,Payload,Falcon 9 FT5,2026-10-01-falcon-9-ft5-transporter-18,2026-10-01,https://space.skyrocket.de/doc_sdat/ossie.htm
+MIKROGLOB-2,ARGUS,Creotech Instruments,Poland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-10-01-falcon-9-ft5-transporter-18,2026-10-01,https://space.skyrocket.de/doc_sdat/pirx-1.htm
+MIKROGLOB-3,ARGUS,Creotech Instruments,Poland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-10-01-falcon-9-ft5-transporter-18,2026-10-01,https://space.skyrocket.de/doc_sdat/pirx-1.htm
+FOREST-20 ARAUCARIA,OroraTech,OroraTech,Germany,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-10-01-falcon-9-ft5-transporter-18,2026-10-01,https://www.spacex.com/launches/transporter18
+ICEYE-X87,ICEYE,ICEYE,Finland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-10-01-falcon-9-ft5-transporter-18,2026-10-01,https://vantafort.com/satellites/100894-iceye-x87
+FLEX,ESA,Thales Alenia Space (prime); Leonardo (instrument),Multinational (ESA),ESA,ESA,400.000,Payload,Vega C,2026-09-15-vega-c-sentinel-3c-flex,2026-09-15,https://www.esa.int/Newsroom/Press_Releases/FLEX_and_Sentinel-3C_launched
+SENTINEL-3C,Copernicus / ESA,Thales Alenia Space,Multinational (EU / ESA),Unlisted,Unlisted,1200.000,Payload,Vega C,2026-09-15-vega-c-sentinel-3c-flex,2026-09-15,https://www.esa.int/Newsroom/Press_Releases/FLEX_and_Sentinel-3C_launched
+SES MPOWER-F11,O3B SES,Boeing,Luxembourg,UK,UK,1700.000,Satellite,Falcon 9 FT5,2026-09-13-falcon-9-ft5-o3b-mpower-11-13,2026-09-13,https://space.skyrocket.de/doc_sdat/o3b-mpower1.htm
+O3b mPOWER 12,O3B SES,Boeing,Luxembourg,UK,UK,1700.000,Satellite,Falcon 9 FT5,2026-09-13-falcon-9-ft5-o3b-mpower-11-13,2026-09-13,https://space.skyrocket.de/doc_sdat/o3b-mpower1.htm
+O3b mPOWER 13,O3B SES,Boeing,Luxembourg,UK,UK,1700.000,Satellite,Falcon 9 FT5,2026-09-13-falcon-9-ft5-o3b-mpower-11-13,2026-09-13,https://space.skyrocket.de/doc_sdat/o3b-mpower1.htm
+PLATFORM-6,EnduroSat,EnduroSat,Bulgaria,Unlisted,Unlisted,,Payload,Spectrum,2026-09-05-spectrum-onward-and-upward,2026-09-05,https://www.rocketlaunch.live/launch/spectrum-flight-two
+TRISAT-S,University of Maribor,University of Maribor,Slovenia,Unlisted,Unlisted,5.000,Payload,Spectrum,2026-09-05-spectrum-onward-and-upward,2026-09-05,https://space.skyrocket.de/doc_sdat/trisat-s.htm
+CyBEEsat,Technische UniversitÑt Berlin,Technische UniversitÑt Berlin,Germany,Unlisted,Unlisted,1.000,Payload,Spectrum,2026-09-05-spectrum-onward-and-upward,2026-09-05,https://space.skyrocket.de/doc_sdat/cybeesat.htm
+FramSat-1,Orbit NTNU,Orbit NTNU,Norway,Unlisted,Unlisted,1.360,Payload,Spectrum,2026-09-05-spectrum-onward-and-upward,2026-09-05,https://orbitntnu.com/projects/FramSat-1
+SpaceTeamSat1,TU Wien Space Team,TU Wien Space Team,Austria,Unlisted,Unlisted,1.000,Payload,Spectrum,2026-09-05-spectrum-onward-and-upward,2026-09-05,https://space.skyrocket.de/doc_sdat/spaceteamsat-1.htm
+MTG-I2,EUMETSAT,Thales Alenia Space (prime); OHB System (bus),Multinational (Europe),Unlisted,Unlisted,3600.000,Payload,Ariane 62,2026-08-27-ariane-62-mtg-i2,2026-08-27,https://www.esa.int/ESA_Multimedia/Images/2026/08/MTG-I2_is_launched
+ICEYE-X80,ICEYE,ICEYE,Finland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+MIKROGLOB-1,ARGUS,Creotech Instruments,Poland,Unlisted,Unlisted,55.000,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://space.skyrocket.de/doc_sdat/pirx-1.htm
+BRO-31,Unseen Labs,GomSpace (bus); Unseenlabs (payload),France,Unlisted,Unlisted,8.000,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://space.skyrocket.de/doc_sdat/bro-12.htm
+FOSSASAT2E26,Fossa Systems,FOSSA Systems,Spain,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://space.skyrocket.de/doc_sdat/fossasat-2e18.htm
+CUBY-1,S4 / ZfT,CuBy consortium,Germany,Unlisted,Unlisted,14.000,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://www.spacex.com/launches/transporter17
+BALKAN-3,Endurosat,EnduroSat,Bulgaria,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://www.eoportal.org/satellite-missions/balkan-constellation
+TOM-3,ZfT,TOM consortium (ZfT / TUM / University of WÅrzburg),Germany,Unlisted,Unlisted,5.000,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://space.skyrocket.de/doc_sdat/tom.htm
+CUBY-5,S4 / ZfT,CuBy consortium,Germany,Unlisted,Unlisted,14.000,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://www.spacex.com/launches/transporter17
+TOM-2,ZfT,TOM consortium (ZfT / TUM / University of WÅrzburg),Germany,Unlisted,Unlisted,5.000,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://space.skyrocket.de/doc_sdat/tom.htm
+ICEYE-X79,RNAF,ICEYE,Netherlands,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+MARINA,TUKE,Spacemanic,Slovakia,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://lf.tuke.sk/en/archive/articles/marina-successfully-launched
+POSIDONIA,ESIBG / UIB,Open Cosmos,Spain,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://www.spacex.com/launches/transporter17
+REPLICATOR-2,Orbital Matter,Orbital Matter,Germany,Unlisted,Unlisted,13.000,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://space.skyrocket.de/doc_sdat/replicator-2.htm
+KOSTKA,BRNO,Brno University of Technology / YSpace,Czech Republic,Unlisted,Unlisted,1.000,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://www.spacex.com/launches/transporter17
+OASIS ALPHA,Tumbleweed (Austria),Team Tumbleweed,Austria,Unlisted,Unlisted,4.000,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://www.spacex.com/launches/transporter17
+CYBERCUBE,ESA,GMV (prime); AlÇn Space (bus),Multinational (ESA),Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://www.spacex.com/launches/transporter17
+CLOUDCT-PRECURSOR,Zentrum fÅr Telematik (ZfT),Zentrum fÅr Telematik / Technion / Weizmann consortium,Germany,Unlisted,Unlisted,4.000,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://www.spacex.com/launches/transporter17
+FLORBELA,LusoSpace,LusoSpace (prime); AAC Clyde Space (bus),Portugal,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://space.skyrocket.de/doc_sdat/lusiada-1.htm
+CESARIO,LusoSpace,LusoSpace (prime); AAC Clyde Space (bus),Portugal,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://space.skyrocket.de/doc_sdat/lusiada-1.htm
+TORGA,Portugal,LusoSpace (prime); AAC Clyde Space (bus),Portugal,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://space.skyrocket.de/doc_sdat/lusiada-1.htm
+TOM-1,ZfT,TOM consortium (ZfT / TUM / University of WÅrzburg),Germany,Unlisted,Unlisted,5.000,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://space.skyrocket.de/doc_sdat/tom.htm
+CUBY-4,S4 / ZfT,CuBy consortium,Germany,Unlisted,Unlisted,14.000,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://www.spacex.com/launches/transporter17
+CUBY-3,S4 / ZfT,CuBy consortium,Germany,Unlisted,Unlisted,14.000,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://www.spacex.com/launches/transporter17
+ION SCV-023,D-ORBIT,D-Orbit,Italy,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://space.skyrocket.de/doc_sdat/ion-scv-2.htm
+CUBY-2,S4 / ZfT,CuBy consortium,Germany,Unlisted,Unlisted,14.000,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://www.spacex.com/launches/transporter17
+HYPERION-GR1,Open Cosmos Aegean,Open Cosmos Aegean,Greece,GREC,GREC,72.000,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://open-cosmos.com/launches/hyperion-gr-1
+ICEYE-X77,ICEYE,ICEYE,Finland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-07-07-falcon-9-ft5-transporter-17,2026-07-07,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+BRO-22,Unseen Labs,GomSpace (bus); Unseenlabs (payload),France,Unlisted,Unlisted,8.000,Payload,H3-30S,2026-06-12-h3-30s-vep-5,2026-06-12,https://space.skyrocket.de/doc_sdat/bro-12.htm
+ORBASTRO-JEN1,OrbAstro,OrbAstro,United Kingdom,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://www.spacex.com/launches/cas500-2
+BRO-21,Unseen Labs,GomSpace (bus); Unseenlabs (payload),France,Unlisted,Unlisted,8.000,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://space.skyrocket.de/doc_sdat/bro-12.htm
+EYCORE-1,Eycore,Kongsberg NanoAvionics (bus); Eycore (SAR payload),Poland,Unlisted,Unlisted,200.000,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://www.spacex.com/launches/cas500-2
+RAVEN,TALOS / MPG,EnduroSat (satellite); TALOS (payload),Germany,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://www.spacex.com/launches/cas500-2
+SELENE,Emtech,EMTech,Greece,Unlisted,Unlisted,8.000,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://www.spacex.com/launches/cas500-2
+HELIOS,Emtech,EMTech,Greece,Unlisted,Unlisted,8.000,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://www.spacex.com/launches/cas500-2
+HYDRA-3,AISTech,EnduroSat (bus); Aistech Space (payload),Spain,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://www.spacex.com/launches/cas500-2
+QUBE2,ZfT,Kongsberg NanoAvionics (bus); ZfT consortium,Germany,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://www.spacex.com/launches/cas500-2
+BALKAN-2,Endurosat,EnduroSat,Bulgaria,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://www.eoportal.org/satellite-missions/balkan-constellation
+IRIDE-MS2-HEO-7,ASI / ArgoTec,Argotec,Italy,Unlisted,Unlisted,70.000,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://space.skyrocket.de/doc_sdat/iride-ms2-heo-1.htm
+IRIDE-MS2-HEO-10,ASI / ArgoTec,Argotec,Italy,Unlisted,Unlisted,70.000,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://space.skyrocket.de/doc_sdat/iride-ms2-heo-1.htm
+IRIDE-MS2-HEO-11,ASI / ArgoTec,Argotec,Italy,Unlisted,Unlisted,70.000,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://space.skyrocket.de/doc_sdat/iride-ms2-heo-1.htm
+IRIDE-MS2-HEO-12,ASI / ArgoTec,Argotec,Italy,Unlisted,Unlisted,70.000,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://space.skyrocket.de/doc_sdat/iride-ms2-heo-1.htm
+IRIDE-MS2-HEO-13,ASI / ArgoTec,Argotec,Italy,Unlisted,Unlisted,70.000,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://space.skyrocket.de/doc_sdat/iride-ms2-heo-1.htm
+IRIDE-MS2-HEO-14,ASI / ArgoTec,Argotec,Italy,Unlisted,Unlisted,70.000,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://space.skyrocket.de/doc_sdat/iride-ms2-heo-1.htm
+IRIDE-MS2-HEO-15,ASI / ArgoTec,Argotec,Italy,Unlisted,Unlisted,70.000,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://space.skyrocket.de/doc_sdat/iride-ms2-heo-1.htm
+OT-FOREST-17 TELPERION,EKD / OroraTech,OroraTech,Germany,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://space.skyrocket.de/doc_sdat/forest-16.htm
+ICEYE-X78,Wojskowe Z.L.,ICEYE,Poland,Poland,Poland,,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+ICEYE-X82,ICEYE,ICEYE,Portugal,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+OT-FOREST-16 SIWITASGOHT,EKD / OroraTech,OroraTech,Germany,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://space.skyrocket.de/doc_sdat/forest-16.htm
+FOREST-18 MANGOSHRIKHAND,EKD / OroraTech,OroraTech,Germany,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://space.skyrocket.de/doc_sdat/forest-16.htm
+OT-FOREST-19 PATADASTRA,EKD / OroraTech,OroraTech,Germany,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-05-03-falcon-9-ft5-ridesharex-2026-100,2026-05-03,https://space.skyrocket.de/doc_sdat/forest-16.htm
+PEAKSAT,AUTH,Aristotle University of Thessaloniki / SpaceDot,Greece,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://www.spacex.com/launches/transporter16
+HADES-SA (SPINNYONE),Hydra Space,Unlisted,Spain,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://www.spacex.com/launches/transporter16
+IRIDE-MS1-EAG2-14,ASI / OHB-I,OHB Italia,Italy,Unlisted,Unlisted,25.000,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/iride-ms1-eaglet2-1.htm
+IRIDE-MS1-EAG2-9,ASI / OHB-I,OHB Italia,Italy,Unlisted,Unlisted,25.000,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/iride-ms1-eaglet2-1.htm
+IRIDE-MS1-EAG2-13,ASI / OHB-I,OHB Italia,Italy,Unlisted,Unlisted,25.000,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/iride-ms1-eaglet2-1.htm
+IRIDE-MS1-EAG2-10,ASI / OHB-I,OHB Italia,Italy,Unlisted,Unlisted,25.000,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/iride-ms1-eaglet2-1.htm
+IRIDE-MS1-EAG2-16,ASI / OHB-I,OHB Italia,Italy,Unlisted,Unlisted,25.000,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/iride-ms1-eaglet2-1.htm
+IRIDE-MS1-EAG2-11,ASI / OHB-I,OHB Italia,Italy,Unlisted,Unlisted,25.000,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/iride-ms1-eaglet2-1.htm
+AISSAT 4,Kystverket / Statsat,SFL Missions (bus); Kongsberg Seatex (AIS payload),Norway,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://www.nanosats.eu/sat/aissat-4
+IRIDE-MS1-EAG2-12,ASI / OHB-I,OHB Italia,Italy,Unlisted,Unlisted,25.000,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/iride-ms1-eaglet2-1.htm
+IRIDE-MS1-EAG2-15,ASI / OHB-I,OHB Italia,Italy,Unlisted,Unlisted,25.000,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/iride-ms1-eaglet2-1.htm
+GARAI-B,Satlantis,OHB Sweden (prime); Satlantis (payload),Spain,Unlisted,Unlisted,115.000,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/garai-a.htm
+HOTSAT-2,Satellite Vu,Surrey Satellite Technology Ltd (SSTL),United Kingdom,Unlisted,Unlisted,130.000,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/hotsat-1.htm
+FLYLAB 1,ONERA,Kongsberg NanoAvionics,France,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://www.spacex.com/launches/transporter16
+UNICORN-2S,Alba Orbital,Alba Orbital,United Kingdom,Glasgow,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/unicorn-2a.htm
+LEMUR-2 JULIA-JOEL,Spire Global,Spire Global,Luxembourg,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://www.spacex.com/launches/transporter16
+UNICORN-2R,Alba Orbital,Alba Orbital,United Kingdom,Glasgow,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/unicorn-2a.htm
+FOSSASAT2E25,Fossa Systems,FOSSA Systems,Spain,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/fossasat-2e18.htm
+LEMUR-2 PEGGY-2004,Spire Global,Spire Global,Luxembourg,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://www.spacex.com/launches/transporter16
+LEMUR-2 IRINA,Spire Global,Spire Global,Luxembourg,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://www.spacex.com/launches/transporter16
+LEMUR-2 CLARA,Spire Global,Spire Global,Luxembourg,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://www.spacex.com/launches/transporter16
+OPTISAT,PLANH,Planetek Hellas,Greece,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://www.planetek.gr/news_events/news_archive/2026/03/planetek_hellas_launches_optisat_cubesat_as_part_of_greek_microsatellite_programme
+LEMUR-2 CARROLLEMO,Spire Global,Spire Global,Germany,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://www.spacex.com/launches/transporter16
+MIMIR 1,Space Norway,Space Inventor,Norway,Unlisted,Unlisted,93.000,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://spacenorway.com/press-release/space-norways-in-orbit-laboratory-is-now-opened-company-confirms-successful-launch/
+LEMUR-2 EMARCHIA,Spire Global,Spire Global,Germany,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://www.spacex.com/launches/transporter16
+LEMUR-2 POLO-11,Spire Global,Spire Global,Luxembourg,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://www.spacex.com/launches/transporter16
+ICEYE-X71,ICEYE,ICEYE,Finland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+ICEYE-X73,Unlisted,ICEYE,Portugal,FAP,FAP,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+ICEYE-X75,ICEYE,ICEYE,Poland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+AAC-IO1,AAC Clyde Space,AAC Clyde Space,Sweden / United Kingdom,Glasgow,Unlisted,8.000,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://www.nanosats.eu/sat/io-1.html
+ICEYE-X76,ICEYE,ICEYE,Poland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+FLYLAB 2,ONERA,Kongsberg NanoAvionics,France,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://www.spacex.com/launches/transporter16
+ICEYE-X72,ICEYE,ICEYE,Finland,Unlisted,Unlisted,120.000,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://satellitemap.space/sat/68504
+CAMOES,LusoSpace,LusoSpace (prime); AAC Clyde Space (bus),Portugal,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/lusiada-1.htm
+BESSA,LusoSpace,LusoSpace (prime); AAC Clyde Space (bus),Portugal,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/lusiada-1.htm
+SARAMAGO,LusoSpace,LusoSpace (prime); AAC Clyde Space (bus),Portugal,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/lusiada-1.htm
+PESSOA,LusoSpace,LusoSpace (prime); AAC Clyde Space (bus),Portugal,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/lusiada-1.htm
+FEMTO-1,Arquimea,EnduroSat / ARQUIMEA,Bulgaria,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://www.spacex.com/launches/transporter16
+ERMIS2,NKUA,OQ Technology,Greece,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://www.spacex.com/launches/transporter16
+VIREON-2,CLAAC,AAC Clyde Space,United Kingdom,Unlisted,Unlisted,20.000,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://www.spacex.com/launches/transporter16
+BRO-19,Unseen Labs,GomSpace (bus); Unseenlabs (payload),France,Unlisted,Unlisted,8.000,Payload,Falcon 9 FT5,2026-03-30-falcon-9-ft5-transporter-16,2026-03-30,https://space.skyrocket.de/doc_sdat/bro-12.htm
+LPNTSAT-001,ESA,GMV consortium,Multinational (ESA),ESA,ESA,,Payload,Electron,2026-03-28-electron-celeste,2026-03-28,https://space.skyrocket.de/doc_sdat/celeste-a-1.htm
+LPNTSAT-002,ESA,Thales Alenia Space (prime); German Orbital Systems (platform),Multinational (ESA),ESA,ESA,,Payload,Electron,2026-03-28-electron-celeste,2026-03-28,https://space.skyrocket.de/doc_sdat/celeste-a-2.htm
+MR-2,Open Cosmos,Open Cosmos,Spain,Unlisted,Unlisted,,Payload,Electron,2026-01-22-electron-open-cosmos,2026-01-22,https://space.skyrocket.de/doc_sdat/mr-1.htm
+MR-1,Open Cosmos,Open Cosmos,Spain,Unlisted,Unlisted,,Payload,Electron,2026-01-22-electron-open-cosmos,2026-01-22,https://space.skyrocket.de/doc_sdat/mr-1.htm
+HYDRA-2,AISTech,EnduroSat (bus); Aistech Space (payload),Spain,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-01-11-falcon-9-ft5-twilight,2026-01-11,https://aistechspace.com/aistech-space-launches-the-hydra-2-satellite/
+FLAMINGO-1,Vyoma Space,EnduroSat,Germany,Unlisted,Unlisted,100.000,Payload,Falcon 9 FT5,2026-01-11-falcon-9-ft5-twilight,2026-01-11,https://space.skyrocket.de/doc_sdat/flamingo-1.htm
+CARBSAR,SSTL,SSTL,United Kingdom,Unlisted,Unlisted,140.000,Payload,Falcon 9 FT5,2026-01-11-falcon-9-ft5-twilight,2026-01-11,https://space.skyrocket.de/doc_sdat/carbsar.htm
+ICEYE-X63,Puolustusvoimat,ICEYE,Finland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-01-11-falcon-9-ft5-twilight,2026-01-11,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+ICEYE-X64,RNAF,ICEYE,Netherlands,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-01-11-falcon-9-ft5-twilight,2026-01-11,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+COSMO-SKYMED-FM3,M.d. Difesa / ASI,Thales Alenia Space,Italy,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2026-01-03-falcon-9-ft5-cosmo-skymed-sg-fm3,2026-01-03,https://www.asi.it/en/2026/01/first-look-at-earth-from-the-cosmo-skymed-fm3-satellite/
+Galileo FOC FM33,EU SPA,OHB System (prime/bus); SSTL (payload),European Union,I-EU,I-EU,733.000,Satellite,Ariane 62,2025-12-17-ariane-62-galileosat-33-34,2025-12-17,https://space.skyrocket.de/doc_sdat/galileo-foc.htm
+Galileo FOC FM34,EU SPA,OHB System (prime/bus); SSTL (payload),European Union,I-EU,I-EU,733.000,Satellite,Ariane 62,2025-12-17-ariane-62-galileosat-33-34,2025-12-17,https://space.skyrocket.de/doc_sdat/galileo-foc.htm
+IRIDE-MS1-EAG2-1,ASI / OHB-I,OHB Italia,Italy,Unlisted,Unlisted,25.000,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://space.skyrocket.de/doc_sdat/iride-ms1-eaglet2-1.htm
+IRIDE-MS1-EAG2-2,ASI / OHB-I,OHB Italia,Italy,Unlisted,Unlisted,25.000,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://space.skyrocket.de/doc_sdat/iride-ms1-eaglet2-1.htm
+IRIDE-MS1-EAG2-3,ASI / OHB-I,OHB Italia,Italy,Unlisted,Unlisted,25.000,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://space.skyrocket.de/doc_sdat/iride-ms1-eaglet2-1.htm
+IRIDE-MS1-EAG2-4,ASI / OHB-I,OHB Italia,Italy,Unlisted,Unlisted,25.000,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://space.skyrocket.de/doc_sdat/iride-ms1-eaglet2-1.htm
+IRIDE-MS1-EAG2-5,ASI / OHB-I,OHB Italia,Italy,Unlisted,Unlisted,25.000,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://space.skyrocket.de/doc_sdat/iride-ms1-eaglet2-1.htm
+IRIDE-MS1-EAG2-6,ASI / OHB-I,OHB Italia,Italy,Unlisted,Unlisted,25.000,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://space.skyrocket.de/doc_sdat/iride-ms1-eaglet2-1.htm
+IRIDE-MS1-EAG2-7,ASI / OHB-I,OHB Italia,Italy,Unlisted,Unlisted,25.000,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://space.skyrocket.de/doc_sdat/iride-ms1-eaglet2-1.htm
+IRIDE-MS1-EAG2-8,ASI / OHB-I,OHB Italia,Italy,Unlisted,Unlisted,25.000,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://space.skyrocket.de/doc_sdat/iride-ms1-eaglet2-1.htm
+AC1-001,BAEG / In-Space BAE,BAE Systems,United Kingdom,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://space.skyrocket.de/doc_sdat/azalea-cluster-rf.htm
+AC1-002,BAEG / In-Space BAE,BAE Systems,United Kingdom,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://space.skyrocket.de/doc_sdat/azalea-cluster-rf.htm
+PIAST-S1,Wojskowa Ak.Tech.,PIAST consortium / Creotech Instruments,Poland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://www.spacex.com/launches/transporter15
+ICEYE-X58,ICEYE,ICEYE,Finland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+ICEYE-X59,Unlisted,ICEYE,Greece,EKD,EKD,,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+ICEYE-X60,Unlisted,ICEYE,Greece,EKD,EKD,,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+ICEYE-X61,ARGUS / MON,ICEYE,Finland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+ICEYE-X62,ICEYE,ICEYE,Poland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+MAUVE,Blue Skies Space,C3S (prime/platform); ISISPACE (pointing solution),Hungary,Unlisted,Unlisted,18.600,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://www.spacex.com/launches/transporter15
+PIAST-S2,Wojskowa Ak.Tech.,PIAST consortium / Creotech Instruments,Poland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://www.spacex.com/launches/transporter15
+PIAST-M,Wojskowa Ak.Tech.,PIAST consortium / Creotech Instruments,Poland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://www.spacex.com/launches/transporter15
+HYDROGNSS-1,ESA,Surrey Satellite Technology Ltd (SSTL),Multinational (ESA),ESA,ESA,75.000,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://www.spacex.com/launches/transporter15
+HYDROGNSS-2,ESA,Surrey Satellite Technology Ltd (SSTL),Multinational (ESA),ESA,ESA,75.000,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://www.spacex.com/launches/transporter15
+NAHLA,Aerospacelab,Aerospacelab,Belgium,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-11-28-falcon-9-ft5-transporter-15,2025-11-28,https://www.spacex.com/launches/transporter15
+SENTINEL-6B,ESA / NASA collaboration,Airbus Defence and Space,Multinational (Europe),Unlisted,Unlisted,1440.000,Payload,Falcon 9 FT5,2025-11-17-falcon-9-ft5-sentinel-6b,2025-11-17,https://space.skyrocket.de/doc_sdat/jason-cs.htm
+SENTINEL-1D,Copernicus / ESA,Thales Alenia Space,Multinational (EU / ESA),Unlisted,Unlisted,,Payload,Ariane 62,2025-11-04-ariane-62-sentinel-1d,2025-11-04,https://space.skyrocket.de/doc_sdat/sentinel-1.htm
+SPAINSAT NG II,Hisdesat,Airbus Defence and Space / Thales Alenia Space,Spain,Unlisted,Unlisted,6100.000,Payload,Falcon 9 FT5,2025-10-24-falcon-9-ft5-spainsat-ng-ii,2025-10-24,https://space.skyrocket.de/doc_sdat/spainsat-ng.htm
+NAOS,Dir. Defence / LuxEOPs,OHB Italia,Luxembourg,Unlisted,Unlisted,645.000,Payload,Falcon 9 FT5,2025-08-26-falcon-9-ft5-naos,2025-08-26,https://space.skyrocket.de/doc_sdat/naos.htm
+METOP SG-A,EUMETSAT,Airbus Defence and Space,Multinational (Europe),Unlisted,Unlisted,4040.000,Payload,Ariane 62,2025-08-13-ariane-62-metop-sg-a1,2025-08-13,https://space.skyrocket.de/doc_sdat/metop-sg-a.htm
+CARB,CNES,CNES (prime); Airbus Defence and Space (payload),France,Unlisted,Unlisted,190.000,Payload,Vega C,2025-07-26-vega-c-co3d-microcarb,2025-07-26,https://space.skyrocket.de/doc_sdat/microcarb.htm
+CO3D3,CNES,Airbus Defence and Space,France,Unlisted,Unlisted,300.000,Payload,Vega C,2025-07-26-vega-c-co3d-microcarb,2025-07-26,https://space.skyrocket.de/doc_sdat/co3d.htm
+CO3D4,CNES,Airbus Defence and Space,France,Unlisted,Unlisted,300.000,Payload,Vega C,2025-07-26-vega-c-co3d-microcarb,2025-07-26,https://space.skyrocket.de/doc_sdat/co3d.htm
+CO3D2,CNES,Airbus Defence and Space,France,Unlisted,Unlisted,300.000,Payload,Vega C,2025-07-26-vega-c-co3d-microcarb,2025-07-26,https://space.skyrocket.de/doc_sdat/co3d.htm
+CO3D1,CNES,Airbus Defence and Space,France,Unlisted,Unlisted,300.000,Payload,Vega C,2025-07-26-vega-c-co3d-microcarb,2025-07-26,https://space.skyrocket.de/doc_sdat/co3d.htm
+LIDE,TYVI / Picosats,Tyvak International,Italy,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-07-23-falcon-9-ft5-tracers,2025-07-23,https://space.skyrocket.de/doc_sdat/lide.htm
+O3B MPOWER F09,O3B SES,Boeing,Luxembourg,Unlisted,Unlisted,1700.000,Payload,Falcon 9 FT5,2025-07-22-falcon-9-ft5-o3b-mpower-9-10,2025-07-22,https://space.skyrocket.de/doc_sdat/o3b-mpower1.htm
+O3B MPOWER F10,O3B SES,Boeing,Luxembourg,Unlisted,Unlisted,1700.000,Payload,Falcon 9 FT5,2025-07-22-falcon-9-ft5-o3b-mpower-9-10,2025-07-22,https://space.skyrocket.de/doc_sdat/o3b-mpower1.htm
+HYPERFIELD-1B,Kuva Space,Kuva Space,Finland,Unlisted,Unlisted,12.000,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/hyperfield-1.htm
+QUICK3,Friedrich Schiller University Jena,Kongsberg NanoAvionics,Germany,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://www.nanosats.eu/sat/quick3.html
+ARVAKER-3,Kongsberg Defence & Aerospace / Norwegian Space Agency (NSC),Kongsberg NanoAvionics,Norway,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/arvaker-1.htm
+ARVAKER-2,Kongsberg Defence & Aerospace / Norwegian Space Agency (NSC),Kongsberg NanoAvionics,Norway,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/arvaker-1.htm
+IRIDE-MS2-HEO-3,ASI / ArgoTec,Argotec,Italy,Unlisted,Unlisted,70.000,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/iride-ms2-heo-1.htm
+IRIDE-MS2-HEO-2,ASI / ArgoTec,Argotec,Italy,Unlisted,Unlisted,70.000,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/iride-ms2-heo-1.htm
+ICEYE-X54,RNAF,ICEYE,Netherlands,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+IRIDE-MS2-HEO-5,ASI / ArgoTec,Argotec,Italy,Unlisted,Unlisted,70.000,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/iride-ms2-heo-1.htm
+ICEYE-X52,ICEYE,ICEYE,Finland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+ICEYE-X56,ICEYE,ICEYE,Finland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+ION SCV-018,D-ORBIT,D-Orbit,Italy,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/ion-scv-2.htm
+IRIDE-MS2-HEO-6,ASI / ArgoTec,Argotec,Italy,Unlisted,Unlisted,70.000,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/iride-ms2-heo-1.htm
+ICEYE-X55,ICEYE,ICEYE,Finland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+IRIDE-MS2-HEO-4,ASI / ArgoTec,Argotec,Italy,Unlisted,Unlisted,70.000,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/iride-ms2-heo-1.htm
+ICEYE-X53,ICEYE,ICEYE,Finland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+IRIDE-MS2-HEO-9,ASI / ArgoTec,Argotec,Italy,Unlisted,Unlisted,70.000,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/iride-ms2-heo-1.htm
+IRIDE-MS2-HEO-8,ASI / ArgoTec,Argotec,Italy,Unlisted,Unlisted,70.000,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/iride-ms2-heo-1.htm
+BIFROST-DNK,FMV,Space Inventor,Sweden,Denmark,Denmark,50.000,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_chr/lau2025.htm
+DUTHSAT-2,DUTH,Unlisted,Greece,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_chr/lau2025.htm
+FOSSASAT2E21,WiseKey,FOSSA Systems,Spain,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/fossasat-2e18.htm
+IOD2_STARTICAL,Startical,Kongsberg NanoAvionics,Spain,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/startical-iod-2.htm
+SKYBEE-A02,ConstellR,Kongsberg NanoAvionics (platform); constellr / OHB (payload),Germany,Unlisted,Unlisted,120.000,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/skybee-a01.htm
+ION SCV-020,D-ORBIT,D-Orbit,Italy,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/ion-scv-2.htm
+FORGESTAR-1,Space Forge,Space Forge,United Kingdom,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/forgestar-1.htm
+BRO-18,Unseen Labs,GomSpace (bus); Unseenlabs (payload),France,Unlisted,Unlisted,8.000,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_sdat/bro-12.htm
+SATMAR,ALENSP,AlÇn Space,Spain,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-06-23-falcon-9-ft5-transporter-14,2025-06-23,https://space.skyrocket.de/doc_chr/lau2025.htm
+BIOMASS,ESA,Airbus Defence and Space,Multinational (ESA),ESA,ESA,1170.000,Payload,Vega C,2025-04-29-vega-c-biomass,2025-04-29,https://space.skyrocket.de/doc_sdat/biomass.htm
+KINEIS-4E,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2025-03-18-electron-kineis-4a-4e,2025-03-18,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-4C,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2025-03-18-electron-kineis-4a-4e,2025-03-18,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-4D,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2025-03-18-electron-kineis-4a-4e,2025-03-18,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-4A,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2025-03-18-electron-kineis-4a-4e,2025-03-18,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-4B,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2025-03-18-electron-kineis-4a-4e,2025-03-18,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+ORBASTRO-TR5,OrbAstro / Liftero,OrbAstro,United Kingdom,Unlisted,Unlisted,10.000,Payload,Falcon 9 FT5,2025-03-15-falcon-9-ft5-transporter-13,2025-03-15,https://space.skyrocket.de/doc_sdat/musat-4.htm
+HERMES-1,ASI,Politecnico di Milano (platform); INAF (payload),Italy,Unlisted,Unlisted,6.600,Payload,Falcon 9 FT5,2025-03-15-falcon-9-ft5-transporter-13,2025-03-15,https://space.skyrocket.de/doc_sdat/musat-4.htm
+HERMES-2,ASI,Politecnico di Milano (platform); INAF (payload),Italy,Unlisted,Unlisted,6.600,Payload,Falcon 9 FT5,2025-03-15-falcon-9-ft5-transporter-13,2025-03-15,https://space.skyrocket.de/doc_sdat/musat-4.htm
+PANDORE,U-Space,U-Space,France,Unlisted,Unlisted,18.000,Payload,Falcon 9 FT5,2025-03-15-falcon-9-ft5-transporter-13,2025-03-15,https://space.skyrocket.de/doc_sdat/musat-4.htm
+UVSQ-SAT NG,LATMOS,ISISPACE (platform); LATMOS (payload),France,Unlisted,Unlisted,10.000,Payload,Falcon 9 FT5,2025-03-15-falcon-9-ft5-transporter-13,2025-03-15,https://www.isispace.nl/project/uvsq-sat-ng/
+ARVAKER-1,Kongsberg Defence & Aerospace / Norwegian Space Agency (NSC),Kongsberg NanoAvionics,Norway,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-03-15-falcon-9-ft5-transporter-13,2025-03-15,https://space.skyrocket.de/doc_sdat/arvaker-1.htm
+ICEYE-X50,ICEYE,ICEYE,Finland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-03-15-falcon-9-ft5-transporter-13,2025-03-15,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+ICEYE-X46,ICEYE,ICEYE,Finland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-03-15-falcon-9-ft5-transporter-13,2025-03-15,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+SOAP,U-Space,U-Space,France,Unlisted,Unlisted,18.000,Payload,Falcon 9 FT5,2025-03-15-falcon-9-ft5-transporter-13,2025-03-15,https://space.skyrocket.de/doc_sdat/musat-4.htm
+HERMES-6,ASI,Politecnico di Milano (platform); INAF (payload),Italy,Unlisted,Unlisted,6.600,Payload,Falcon 9 FT5,2025-03-15-falcon-9-ft5-transporter-13,2025-03-15,https://space.skyrocket.de/doc_sdat/musat-4.htm
+HERMES 4,ASI,Politecnico di Milano (platform); INAF (payload),Italy,Unlisted,Unlisted,6.600,Payload,Falcon 9 FT5,2025-03-15-falcon-9-ft5-transporter-13,2025-03-15,https://space.skyrocket.de/doc_sdat/musat-4.htm
+HERMES-5,ASI,Politecnico di Milano (platform); INAF (payload),Italy,Unlisted,Unlisted,6.600,Payload,Falcon 9 FT5,2025-03-15-falcon-9-ft5-transporter-13,2025-03-15,https://space.skyrocket.de/doc_sdat/musat-4.htm
+HERMES-3,ASI,Politecnico di Milano (platform); INAF (payload),Italy,Unlisted,Unlisted,6.600,Payload,Falcon 9 FT5,2025-03-15-falcon-9-ft5-transporter-13,2025-03-15,https://space.skyrocket.de/doc_sdat/musat-4.htm
+IOD1_STARTICAL,Startical,GomSpace,Spain,Unlisted,Unlisted,20.000,Payload,Falcon 9 FT5,2025-03-15-falcon-9-ft5-transporter-13,2025-03-15,https://space.skyrocket.de/doc_sdat/musat-4.htm
+ION SCV-017,D-ORBIT,D-Orbit,Italy,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-03-15-falcon-9-ft5-transporter-13,2025-03-15,https://space.skyrocket.de/doc_sdat/ion-scv-2.htm
+CSO-3,DGA / CNES,Airbus Defence and Space (prime/bus); Thales Alenia Space (payload),France,F,F,3562.000,Satellite,Ariane 62,2025-03-06-ariane-62-cso-3,2025-03-06,https://keeptrack.space/satellite/63156
+KINEIS-2C,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2025-02-08-electron-kineis-2a-2e,2025-02-08,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-2D,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2025-02-08-electron-kineis-2a-2e,2025-02-08,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-2E,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2025-02-08-electron-kineis-2a-2e,2025-02-08,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-2A,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2025-02-08-electron-kineis-2a-2e,2025-02-08,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-2B,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2025-02-08-electron-kineis-2a-2e,2025-02-08,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+SPAINSAT NG1,Hisdesat,Airbus Defence and Space / Thales Alenia Space,Spain,Unlisted,Unlisted,6100.000,Payload,Falcon 9 FT5,2025-01-30-falcon-9-ft5-spainsat-ng-1,2025-01-30,https://space.skyrocket.de/doc_sdat/spainsat-ng.htm
+BUZZZER-1,Unseen Labs,Unseenlabs,France,Unlisted,Unlisted,10.000,Payload,Falcon 9 FT5,2025-01-14-falcon-9-ft5-transporter-12,2025-01-14,https://www.satcat.com/sats/62609
+GARAI-A,Satlantis,OHB Sweden (prime); Satlantis (payload),Spain,Unlisted,Unlisted,115.000,Payload,Falcon 9 FT5,2025-01-14-falcon-9-ft5-transporter-12,2025-01-14,https://space.skyrocket.de/doc_sdat/garai-a.htm
+ANSER-LS,INTA,INTA,Spain,Unlisted,Unlisted,4.000,Payload,Falcon 9 FT5,2025-01-14-falcon-9-ft5-transporter-12,2025-01-14,https://www.esa.int/ESA_Multimedia/Images/2024/05/New_ANSER_Leader-S_satellite
+BRO-16,Unseen Labs,GomSpace (bus); Unseenlabs (payload),France,Unlisted,Unlisted,8.000,Payload,Falcon 9 FT5,2025-01-14-falcon-9-ft5-transporter-12,2025-01-14,https://space.skyrocket.de/doc_sdat/bro-12.htm
+EDISON-1,SPINV / ESA,Space Inventor,Denmark,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-01-14-falcon-9-ft5-transporter-12,2025-01-14,https://space.skyrocket.de/doc_sdat/edison-1.htm
+SKYBEE-A01,ConstellR,Kongsberg NanoAvionics (platform); constellr / OHB (payload),Germany,Unlisted,Unlisted,120.000,Payload,Falcon 9 FT5,2025-01-14-falcon-9-ft5-transporter-12,2025-01-14,https://space.skyrocket.de/doc_sdat/skybee-a01.htm
+FOSSASAT2E19 (TAT-E),Fossa Systems,FOSSA Systems,Spain,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-01-14-falcon-9-ft5-transporter-12,2025-01-14,https://space.skyrocket.de/doc_sdat/fossasat-2e18.htm
+ELEVATION-1,Almagest IOM / XDLINX,XDLINX Space Labs (manufacturer); Ananth Technologies (AIT),United Kingdom,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-01-14-falcon-9-ft5-transporter-12,2025-01-14,https://www.satnow.com/news/details/2779-almagest-space-successfully-launches-elevation-1-e-band-satellite-on-spacex-transporter-12
+BALKAN-1,Endurosat,EnduroSat,Bulgaria,Unlisted,Unlisted,32.000,Payload,Falcon 9 FT5,2025-01-14-falcon-9-ft5-transporter-12,2025-01-14,https://www.eoportal.org/satellite-missions/balkan-constellation
+OT-FOREST-3 BJOERNTBW,OroraTech,OroraTech,Germany,Unlisted,Unlisted,12.000,Payload,Falcon 9 FT5,2025-01-14-falcon-9-ft5-transporter-12,2025-01-14,https://space.skyrocket.de/doc_sdat/fossasat-2e18.htm
+FOSSASAT2E18 (TAT-A),Fossa Systems,FOSSA Systems,Spain,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-01-14-falcon-9-ft5-transporter-12,2025-01-14,https://space.skyrocket.de/doc_sdat/fossasat-2e18.htm
+BLUEBON,SatRevolution / TelePIX,SatRev (bus); TelePIX (payload),Poland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-01-14-falcon-9-ft5-transporter-12,2025-01-14,https://www.eoportal.org/satellite-missions/bluebon
+IRIDE-MS2-HEO-1,ASI / ArgoTec,Argotec,Italy,Unlisted,Unlisted,70.000,Payload,Falcon 9 FT5,2025-01-14-falcon-9-ft5-transporter-12,2025-01-14,https://space.skyrocket.de/doc_sdat/iride-ms2-heo-1.htm
+NORSAT 4,NSC,UTIAS Space Flight Laboratory,Norway,Unlisted,Unlisted,34.000,Payload,Falcon 9 FT5,2025-01-14-falcon-9-ft5-transporter-12,2025-01-14,https://sflmissions.com/norsat-4/
+GESAT GEN 1,Absolut Sensing / NanoAvionics,Kongsberg NanoAvionics,France,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2025-01-14-falcon-9-ft5-transporter-12,2025-01-14,https://space.skyrocket.de/doc_sdat/gesat-gen1.htm
+NUVIEW ALPHA,Astranis UK / Anuvu,Astranis,United Kingdom,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2024-12-29-falcon-9-ft5-astranis,2024-12-29,https://space.skyrocket.de/doc_sdat/nuview-a.htm
+AGILA,Astranis UK / Orbits Corp,Astranis,United Kingdom,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2024-12-29-falcon-9-ft5-astranis,2024-12-29,https://space.skyrocket.de/doc_sdat/agila.htm
+NUVIEW BRAVO,Astranis UK / Anuvu,Astranis,United Kingdom,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2024-12-29-falcon-9-ft5-astranis,2024-12-29,https://space.skyrocket.de/doc_sdat/nuview-a.htm
+ICEYE-X49,ICEYE,ICEYE,Finland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2024-12-21-falcon-9-ft5-bandwagon-2,2024-12-21,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+ICEYE-X47,ICEYE,ICEYE,Finland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2024-12-21-falcon-9-ft5-bandwagon-2,2024-12-21,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+LASARSAT,LASAR,Spacemanic,Czech Republic,Unlisted,Unlisted,1.000,Payload,Falcon 9 FT5,2024-12-21-falcon-9-ft5-bandwagon-2,2024-12-21,https://space.skyrocket.de/doc_sdat/lasarsat.htm
+CROCUBE,CroCube Team,Spacemanic,Croatia,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2024-12-21-falcon-9-ft5-bandwagon-2,2024-12-21,https://spacemanic.com/december-liftoff-crocube-and-lasarsat/
+O3B MPOWER F7,O3B SES,Boeing,Luxembourg,Unlisted,Unlisted,1700.000,Payload,Falcon 9 FT5,2024-12-17-falcon-9-ft5-o3b-mpower-7-8,2024-12-17,https://space.skyrocket.de/doc_sdat/o3b-mpower1.htm
+O3B MPOWER F8,O3B SES,Boeing,Luxembourg,Unlisted,Unlisted,1700.000,Payload,Falcon 9 FT5,2024-12-17-falcon-9-ft5-o3b-mpower-7-8,2024-12-17,https://space.skyrocket.de/doc_sdat/o3b-mpower1.htm
+SENTINEL 1C,Copernicus / ESA,Thales Alenia Space,Multinational (EU / ESA),Unlisted,Unlisted,,Payload,Vega C,2024-12-05-vega-c-sentinel-1c,2024-12-05,https://space.skyrocket.de/doc_sdat/sentinel-1.htm
+PROBA-3 CSC,ESA,Sener (system prime); Redwire Space (spacecraft assembly),Multinational (ESA),ESA,ESA,340.000,Payload,PSLV-XL,2024-12-05-pslv-xl-proba-3,2024-12-05,https://space.skyrocket.de/doc_sdat/proba-3.htm
+PROBA-3 OSC,ESA,Sener (system prime); Redwire Space (spacecraft assembly),Multinational (ESA),ESA,ESA,200.000,Payload,PSLV-XL,2024-12-05-pslv-xl-proba-3,2024-12-05,https://space.skyrocket.de/doc_sdat/proba-3.htm
+KINEIS-5C,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2024-11-25-electron-kineis-5a-5e,2024-11-25,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-5D,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2024-11-25-electron-kineis-5a-5e,2024-11-25,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-5E,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2024-11-25-electron-kineis-5a-5e,2024-11-25,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-5A,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2024-11-25-electron-kineis-5a-5e,2024-11-25,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-5B,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2024-11-25-electron-kineis-5a-5e,2024-11-25,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+ONEWEB-0015,Eutelsat OneWeb,OneWeb Satellites,France,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0687,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0688,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0689,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0690,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0691,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0692,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0693,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0695,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0697,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0698,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0699,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0700,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0701,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0702,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0704,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0705,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0706,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0707,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+ONEWEB-0708,Eut. One Web,OneWeb Satellites,United Kingdom,Unlisted,Unlisted,147.000,Payload,Falcon 9 FT5,2024-10-20-falcon-9-ft5-oneweb-l20,2024-10-20,https://in-the-sky.org/spacecraft.php?id=61613
+HERA,ESA,OHB System,Multinational (ESA),I-ESA,I-ESA,,Satellite,Falcon 9 FT5,2024-10-07-falcon-9-ft5-hera,2024-10-07,https://www.esa.int/Space_Safety/Hera
+KINEIS-3C,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2024-09-20-electron-kineis-3a-3e,2024-09-20,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-3D,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2024-09-20-electron-kineis-3a-3e,2024-09-20,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-3E,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2024-09-20-electron-kineis-3a-3e,2024-09-20,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-3A,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2024-09-20-electron-kineis-3a-3e,2024-09-20,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-3B,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2024-09-20-electron-kineis-3a-3e,2024-09-20,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+GALILEO 32 (137),SPA,OHB System (prime/bus); SSTL (payload),Multinational (ESA),EU,EU,733.000,Payload,Falcon 9 FT5,2024-09-17-falcon-9-ft5-galileo-l13,2024-09-17,https://space.skyrocket.de/doc_sdat/galileo-foc.htm
+GALILEO 31 (10D),SPA,OHB System (prime/bus); SSTL (payload),Multinational (ESA),EU,EU,733.000,Payload,Falcon 9 FT5,2024-09-17-falcon-9-ft5-galileo-l13,2024-09-17,https://space.skyrocket.de/doc_sdat/galileo-foc.htm
+SENTINEL-2C,Copernicus / ESA,Airbus Defence and Space,Multinational (EU / ESA),Unlisted,Unlisted,1130.000,Payload,Vega 1,2024-09-05-vega-1-sentinel-2c,2024-09-05,https://space.skyrocket.de/doc_sdat/sentinel-2.htm
+TYCHE,UK Space Command,Surrey Satellite Technology Ltd (SSTL),United Kingdom,Unlisted,Unlisted,160.000,Payload,Falcon 9 FT5,2024-08-16-falcon-9-ft5-transporter-11,2024-08-16,https://space.skyrocket.de/doc_sdat/tyche.htm
+LUR-1,AVS,AVS,Spain,Unlisted,Unlisted,57.000,Payload,Falcon 9 FT5,2024-08-16-falcon-9-ft5-transporter-11,2024-08-16,https://space.skyrocket.de/doc_sdat/lur-1.htm
+IPERDRONE.0,ASI,CIRA (prime); Tyvak International / Kayser Italia,Italy,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2024-08-16-falcon-9-ft5-transporter-11,2024-08-16,https://space.skyrocket.de/doc_sdat/iperdrone-0.htm
+ERNST,Fraunhofer EMI,Fraunhofer EMI,Germany,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2024-08-16-falcon-9-ft5-transporter-11,2024-08-16,https://space.skyrocket.de/doc_sdat/ernst.htm
+HYPSO-2,NTNU,Kongsberg NanoAvionics (bus); NTNU (payload),Norway,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2024-08-16-falcon-9-ft5-transporter-11,2024-08-16,https://space.skyrocket.de/doc_sdat/hypso-2.htm
+SATELIOT_2,Sateliot,AlÇn Space,Spain,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2024-08-16-falcon-9-ft5-transporter-11,2024-08-16,https://en.wikipedia.org/wiki/Sateliot
+SATELIOT_4,Sateliot,AlÇn Space,Spain,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2024-08-16-falcon-9-ft5-transporter-11,2024-08-16,https://en.wikipedia.org/wiki/Sateliot
+PICO-02A021,APOGEO,Unlisted,Italy,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2024-08-16-falcon-9-ft5-transporter-11,2024-08-16,https://www.n2yo.com/satellite/?s=60538
+PHISAT 2,Open Cosmos / ESA,Open Cosmos,United Kingdom,Unlisted,Unlisted,8.900,Payload,Falcon 9 FT5,2024-08-16-falcon-9-ft5-transporter-11,2024-08-16,https://space.skyrocket.de/doc_sdat/phisat-2.htm
+ARCTIC WEATHER SATELLITE,ESA,OHB Sweden (prime); Omnisys (instrument),Multinational (ESA),Unlisted,Unlisted,125.000,Payload,Falcon 9 FT5,2024-08-16-falcon-9-ft5-transporter-11,2024-08-16,https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite
+SATELIOT_1,Sateliot,AlÇn Space,Spain,Unlisted,Unlisted,7.407,Payload,Falcon 9 FT5,2024-08-16-falcon-9-ft5-transporter-11,2024-08-16,https://en.wikipedia.org/wiki/Sateliot
+BRO-14,Unseen Labs,GomSpace (bus); Unseenlabs (payload),France,Unlisted,Unlisted,8.000,Payload,Falcon 9 FT5,2024-08-16-falcon-9-ft5-transporter-11,2024-08-16,https://space.skyrocket.de/doc_sdat/bro-12.htm
+SATELIOT_3,Sateliot,AlÇn Space,Spain,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2024-08-16-falcon-9-ft5-transporter-11,2024-08-16,https://en.wikipedia.org/wiki/Sateliot
+BRO-15,Unseen Labs,GomSpace (bus); Unseenlabs (payload),France,Unlisted,Unlisted,8.000,Payload,Falcon 9 FT5,2024-08-16-falcon-9-ft5-transporter-11,2024-08-16,https://space.skyrocket.de/doc_sdat/bro-12.htm
+HYPERFIELD-1A,Kuva Space,Kuva Space,Finland,Unlisted,Unlisted,12.000,Payload,Falcon 9 FT5,2024-08-16-falcon-9-ft5-transporter-11,2024-08-16,https://space.skyrocket.de/doc_sdat/hyperfield-1.htm
+ASBM-1,Space Norway / USSF SSC,Northrop Grumman,Norway,Unlisted,Unlisted,2000.000,Payload,Falcon 9 FT5,2024-08-12-falcon-9-ft5-asbm-1-2,2024-08-12,https://space.skyrocket.de/doc_sdat/asbm-1.htm
+ASBM-2,Space Norway / USSF SSC,Northrop Grumman,Norway,Unlisted,Unlisted,2000.000,Payload,Falcon 9 FT5,2024-08-12-falcon-9-ft5-asbm-1-2,2024-08-12,https://space.skyrocket.de/doc_sdat/asbm-1.htm
+3CAT-4,UPC,UPC NanoSat Lab,Spain,Unlisted,Unlisted,1.300,Payload,Ariane 62,2024-07-09-ariane-62-cubesats,2024-07-09,https://www.esa.int/ESA_Multimedia/Videos/2024/07/YPSat_witnesses_ISTSat-1_3Cat-4_CubeSats_deployment_from_Ariane_6
+ISTSAT-1,Lisboa,Instituto Superior TÇcnico,Portugal,Portugal,Portugal,1.095,Payload,Ariane 62,2024-07-09-ariane-62-cubesats,2024-07-09,https://www.esa.int/ESA_Multimedia/Videos/2024/07/YPSat_witnesses_ISTSat-1_3Cat-4_CubeSats_deployment_from_Ariane_6
+OOV-CUBE,TUB,Technische UniversitÑt Berlin / Rapid Cubes,Germany,Unlisted,Unlisted,17.000,Payload,Ariane 62,2024-07-09-ariane-62-cubesats,2024-07-09,https://www.wikidata.org/wiki/Q127500407
+ROBUSTA-3A,MONTP,University of Montpellier Space Centre,France,Unlisted,Unlisted,3.600,Payload,Ariane 62,2024-07-09-ariane-62-cubesats,2024-07-09,https://www.wikidata.org/wiki/Q24928822
+KINEIS-1B,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2024-06-20-electron-kineis-1a-1e,2024-06-20,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-1C,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2024-06-20-electron-kineis-1a-1e,2024-06-20,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-1D,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2024-06-20-electron-kineis-1a-1e,2024-06-20,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-1E,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2024-06-20-electron-kineis-1a-1e,2024-06-20,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+KINEIS-1A,Kineis,HEMERIA (bus); Thales Alenia Space (payload),France,Unlisted,Unlisted,30.000,Payload,Electron,2024-06-20-electron-kineis-1a-1e,2024-06-20,https://space.skyrocket.de/doc_sdat/kineis-1.htm
+GALILEO 29 (10C),SPA,OHB System (prime/bus); SSTL (payload),Multinational (ESA),EU,EU,733.000,Payload,Falcon 9 FT5,2024-04-28-falcon-9-ft5-galileo-l12,2024-04-28,https://space.skyrocket.de/doc_sdat/galileo-foc.htm
+GALILEO 30 (10E),SPA,OHB System (prime/bus); SSTL (payload),Multinational (ESA),EU,EU,733.000,Payload,Falcon 9 FT5,2024-04-28-falcon-9-ft5-galileo-l12,2024-04-28,https://space.skyrocket.de/doc_sdat/galileo-foc.htm
+EUTE 36D,EutelsatSA,Airbus Defence and Space,France,Unlisted,Unlisted,5000.000,Payload,Falcon 9 FT5,2024-03-30-falcon-9-ft5-eutelsat-36d,2024-03-30,https://space.skyrocket.de/doc_sdat/eutelsat-36d.htm
+HORACIO,Satlantis,Kongsberg NanoAvionics,Spain,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2024-03-04-falcon-9-ft5-transporter-10,2024-03-04,https://space.skyrocket.de/doc_sdat/horacio.htm
+VSP ROSE,Aerospacelab,Aerospacelab,Belgium,Unlisted,Unlisted,120.000,Payload,Falcon 9 FT5,2024-03-04-falcon-9-ft5-transporter-10,2024-03-04,https://space.skyrocket.de/doc_sdat/rose.htm
+VSP RF A1,Aerospacelab,Aerospacelab,Belgium,Unlisted,Unlisted,120.000,Payload,Falcon 9 FT5,2024-03-04-falcon-9-ft5-transporter-10,2024-03-04,https://space.skyrocket.de/doc_sdat/fifi_riri_loulou.htm
+VSP RF C1,Aerospacelab,Aerospacelab,Belgium,Unlisted,Unlisted,120.000,Payload,Falcon 9 FT5,2024-03-04-falcon-9-ft5-transporter-10,2024-03-04,https://space.skyrocket.de/doc_sdat/fifi_riri_loulou.htm
+VSP RF B1,Aerospacelab,Aerospacelab,Belgium,Unlisted,Unlisted,120.000,Payload,Falcon 9 FT5,2024-03-04-falcon-9-ft5-transporter-10,2024-03-04,https://space.skyrocket.de/doc_sdat/fifi_riri_loulou.htm
+HAMMER,Open Cosmos,Open Cosmos,United Kingdom,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2024-03-04-falcon-9-ft5-transporter-10,2024-03-04,https://space.skyrocket.de/doc_sdat/iod-hammer.htm
+ICEYE-X38,ICEYE,ICEYE,Finland,Unlisted,Unlisted,,Payload,Falcon 9 FT5,2024-03-04-falcon-9-ft5-transporter-10,2024-03-04,https://space.skyrocket.de/doc_sdat/iceye-x4.htm
+BRO-13,Unseen Labs,GomSpace (bus); Unseenlabs (payload),France,Unlisted,Unlisted,8.000,Payload,Falcon 9 FT5,2024-03-04-falcon-9-ft5-transporter-10,2024-03-04,https://space.skyrocket.de/doc_sdat/bro-12.htm
+BRO-12,Unseen Labs,GomSpace (bus); Unseenlabs (payload),France,Unlisted,Unlisted,8.000,Payload,Falcon 9 FT5,2024-03-04-falcon-9-ft5-transporter-10,2024-03-04,https://space.skyrocket.de/doc_sdat/bro-12.htm
+SONATE-2,U Wurzburg,University of WÅrzburg,Germany,Unlisted,Unlisted,12.000,Payload,Falcon 9 FT5,2024-03-04-falcon-9-ft5-transporter-10,2024-03-04,https://space.skyrocket.de/doc_sdat/sonate-2.htm
+OVZON-3,OVZON,Maxar Space Systems,Sweden,Unlisted,Unlisted,1800.000,Payload,Falcon 9 FT5,2024-01-03-falcon-9-ft5-ovzon-3,2024-01-03,https://space.skyrocket.de/doc_sdat/ovzon-3.htm
